@@ -1,0 +1,5 @@
+pdf_to_html_chatgpt/
+├── main.py
+├── codes_we_need.py
+├── requirements.txt
+└── README.md
